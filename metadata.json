@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Ledger - Decentralized Finance Simulator",
+  "description": "A high-fidelity dashboard exploring concepts of decentralized multi-currency banking, private PIX transfers, and fee-less conversions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
